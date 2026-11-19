@@ -1,0 +1,10 @@
+state/
+config.json
+__pycache__/
+*.pyc
+.venv/
+token.env
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+dist/

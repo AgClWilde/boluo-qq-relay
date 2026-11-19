@@ -1,0 +1,7 @@
+{
+  "database": "state/relay.sqlite3",
+  "onebot_url": "ws://127.0.0.1:3001",
+  "onebot_token_env": "BOLUO_ONEBOT_TOKEN",
+  "rescan_seconds": 300,
+  "send_interval": 1.2
+}
